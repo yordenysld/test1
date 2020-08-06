@@ -1,6 +1,6 @@
 this  server of  the test
 
-intall dependecy
+install dependency
 npm install
 
 run proyect
